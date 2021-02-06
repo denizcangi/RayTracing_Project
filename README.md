@@ -5,4 +5,4 @@ In this project, the aim is to develop a ray tracer. Ray tracing is a rendering 
 
 For this project, I developed a separate code for each of the tasks asked. 
 
-I used C++ in this project and used OpenGL Mathematics (GLM). 
+I used C++ in this project and used OpenGL Mathematics (GLM). It also includes the report that I have written that explains how I have achieved that task. 
